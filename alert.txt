@@ -1,1 +1,1 @@
-Device status: online
+Device status: offline
